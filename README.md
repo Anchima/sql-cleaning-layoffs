@@ -48,4 +48,4 @@ Project Goal:
 Clean the layoffs dataset to make it accurate and ready for exploratory data analysis.
 
 Contact:
-Your Name — www.linkedin.com/in/ani-chiemerie-237965299
+www.linkedin.com/in/ani-chiemerie-237965299
